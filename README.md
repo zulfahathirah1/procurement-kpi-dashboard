@@ -114,7 +114,7 @@ procurement-kpi-dashboard/
 │
 ├── README.md
 ├── data/
-│   └── procurement_data.xlsx
-└── dashboard/
-    └── procurement_dashboard.xlsx
+    └── procurement KPI Analysis Dataset.xlsx
+    └── procurement KPI dashboard.png
+
 ```
