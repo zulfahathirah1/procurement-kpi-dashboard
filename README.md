@@ -17,7 +17,7 @@ To transform raw transactional purchase order data into a structured executive r
 | Property | Detail |
 |---|---|
 | Source | Kaggle: https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset |
-| Records | 700 purchase orders |
+| Records | 777 purchase orders |
 | Period | 2022 to 2023 |
 | Suppliers | 5 (Alpha Inc, Beta Supplies, Delta Logistics, Epsilon Group, Gamma Co) |
 | Item Categories | Electronics, MRO, Office Supplies, Packaging, Raw Materials |
@@ -102,7 +102,7 @@ All charts and KPI cards update simultaneously when filters are applied.
 ## Known Limitations
 
 - Dataset is sourced from Kaggle and uses anonymised data. Findings are illustrative and not representative of any real organisation.
-- The dataset contains 700 records across only five suppliers, which limits the statistical depth of supplier-level analysis.
+- The dataset contains 777 records across only five suppliers, which limits the statistical depth of supplier-level analysis.
 - A supplier risk score combining defect rate, compliance rate, and lead time into a single weighted ranking has been identified as a valuable addition and is planned for the next iteration.
 
 ---
